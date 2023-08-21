@@ -1,0 +1,14 @@
+
+step1: Git softwear download (https://git-scm.com/download/win)
+step2: Open new or exiting folder cmd / terminal
+
+These commands run only one time then where you want open your terminal 
+step3: git config --global user.name "Mr.Aziz"
+step4: git config --global user.email "mraziz459@gmail.com"
+
+Every new project start with these commands
+step5: > git init
+
+Every new changes
+step6: > git add -A 
+step7: > git add commit -m "while loop added"
